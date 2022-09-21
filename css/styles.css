@@ -1,5 +1,5 @@
 body{
-   background-color: "ffffe0";
+   background-color: hwb (165 57% 24%);
    font-family: serif;
    font-size: large;
    font: 200;
@@ -9,9 +9,9 @@ body{
    border: solid white;
   }
 h1{
-   color:"rgb(189, 43, 43)";
+   color: rgb (189, 43, 43);
 }
 h2{ 
-   color:"rgb(189, 43, 43)";
+   color: rgb (189, 43, 43);
 } 
 
