@@ -1,17 +1,10 @@
-body{
-   background-color: hwb (165 57% 24%);
-   font-family: serif;
-   font-size: large;
-   font: 200;
-   }
-  img#train {
-   width: 500px;
-   border: solid white;
-  }
-h1{
-   color: rgb (189, 43, 43);
+body {background:beige;
+     font-family:serif;
+     font-size:large;
+     font:200;}
+img#train {width:500px;
+          border:solid lightcoral;
+           
 }
-h2{ 
-   color: rgb (189, 43, 43);
-} 
-
+h1{color:coral;}
+h2 {color:coral;}
